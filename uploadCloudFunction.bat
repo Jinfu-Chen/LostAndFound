@@ -1,0 +1,1 @@
+"D:\wechatmini\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-4g9u9fuwed1da800 --n quickstartFunctions --r --project "F:\ruweiMini\LostAndFound" --report_first --report
