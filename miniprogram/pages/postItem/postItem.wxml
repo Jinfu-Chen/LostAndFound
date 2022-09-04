@@ -1,0 +1,3 @@
+<!--pages/postItem/postItem.wxml-->
+<text>通过表单填写物品信息进行发布（发布时间非由用户填写，而应自动设置为
+发布时的服务端时间</text>

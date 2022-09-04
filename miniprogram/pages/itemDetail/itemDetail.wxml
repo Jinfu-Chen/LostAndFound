@@ -1,0 +1,2 @@
+<!--pages/itemDetail/itemDetail.wxml-->
+<view>显示物品图片轮播图、名称、描述、发布时间、拾取地点等，可点击按钮认领。</view>
